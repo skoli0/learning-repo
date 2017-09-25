@@ -1,4 +1,3 @@
-/* C Program to check whether linked list is circular or not */
 #include <stdio.h>
 #include <stdlib.h>
 

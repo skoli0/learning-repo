@@ -19,4 +19,4 @@ dd status=noxfer conv=notrunc if=firstos.bin of=firstos.flp
 # the QEMU PC emulator as follows:
 qemu-system-i386 -fda firstos.flp
 
-# Enjoy, you just created and loaded your own little tiny os
+# Enjoy, you just created and loaded your own tiny little OS
